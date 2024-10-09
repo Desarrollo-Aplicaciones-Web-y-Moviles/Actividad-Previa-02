@@ -26,6 +26,6 @@ Para esta actividad, haga una captura de pantalla del resultado de la ejecución
 ## Codigo
 -  [Ejercicio 7](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-02/tree/main/C01E07)
 -  [Ejercicio 8](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-02/tree/main/C01E08)
--  [Ejercicio 9](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-01/tree/main/C01E09)
--  [Ejercicio 10](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-01/tree/main/C01E10)
+-  [Ejercicio 9](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-02/tree/main/C01E09)
+-  [Ejercicio 10](https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-02/tree/main/C01E10)
 
